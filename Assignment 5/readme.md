@@ -1,14 +1,5 @@
 Task 5: Fine-Tuning a Transformer Model
 
-
-
-
-
-
-
-
-
-
 📌 Project Overview
 
 This project demonstrates how to fine-tune a pre-trained Transformer model (such as BERT) for a Natural Language Processing (NLP) task using transfer learning techniques.
@@ -24,6 +15,7 @@ Evaluate model performance
 🔥 PyTorch / TensorFlow
 🐼 Pandas, NumPy
 📊 Scikit-learn
+
 ⚙️ Workflow
 1. Data Preparation
 Load and clean dataset
